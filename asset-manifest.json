@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Homework-RA10-Redux/static/css/main.09c2893c.css",
+    "main.js": "/Homework-RA10-Redux/static/js/main.06bc599e.js",
+    "static/media/Montserrat-Regular.woff2": "/Homework-RA10-Redux/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/Homework-RA10-Redux/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/pen.svg": "/Homework-RA10-Redux/static/media/pen.62467175c11505a3af3a.svg",
+    "static/media/delete_red.svg": "/Homework-RA10-Redux/static/media/delete_red.a5a16d61879442e51a63.svg",
+    "index.html": "/Homework-RA10-Redux/index.html",
+    "main.09c2893c.css.map": "/Homework-RA10-Redux/static/css/main.09c2893c.css.map",
+    "main.06bc599e.js.map": "/Homework-RA10-Redux/static/js/main.06bc599e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c2893c.css",
+    "static/js/main.06bc599e.js"
+  ]
+}
